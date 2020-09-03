@@ -1,0 +1,16 @@
+target
+.idea/
+.DS_Store
+
+.externalToolBuilders/**
+.settings/**
+.git/**
+
+target/**
+/target/
+
+.classpath
+/bin/
+/bin/
+
+logs
